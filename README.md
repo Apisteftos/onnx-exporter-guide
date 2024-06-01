@@ -7,7 +7,7 @@ This guide provides detailed instructions for exporting PyTorch machine learning
 Before you begin, ensure you have the following:
 
 - Python 3.6+
-- pip (Python package installer)
+- pip 
 - Pytorch
 - Basic understanding of machine learning models and frameworks
 - ONNX and latest onnxruntime
