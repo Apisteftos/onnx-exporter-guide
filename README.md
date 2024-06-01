@@ -1,5 +1,6 @@
 # About this Guide
 
+This guide provides detailed instructions for exporting PyTorch machine learning models to the ONNX format. It aims to simplify the process of converting models to ONNX for interoperability and deployment across different platforms and frameworks.
 
 ## Prerequisites
 
@@ -21,6 +22,13 @@ To get started, you'll need to install the necessary libraries. You can install 
 ```terminal
 pip install -r requirements.txt
 ```
+
+
+## Exporting Models (Pytorch)
+
+## Examples
+Find practical examples in the [Examples](Examples) directory.
+
 
 
 
