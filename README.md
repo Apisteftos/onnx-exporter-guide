@@ -10,7 +10,7 @@ Before you begin, ensure you have the following:
 - pip (Python package installer)
 - Pytorch
 - Basic understanding of machine learning models and frameworks
-- ONNX
+- ONNX and latest onnxruntime
 - [Netron.app](https://netron.app/) for visualizing and analyzing ONNX models
 
 
