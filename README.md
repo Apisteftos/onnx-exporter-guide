@@ -26,6 +26,14 @@ pip install -r requirements.txt
 
 ## Exporting Models (Pytorch)
 
+- AlexNet
+- ResNet18
+- ResNet34
+- ResNet50
+- ResNet101
+- ResNet152
+- ShuffleNet
+
 ## Examples
 Find practical examples in the [Examples](Examples) directory.
 
