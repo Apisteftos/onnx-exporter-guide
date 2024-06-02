@@ -3,3 +3,5 @@ onnxruntime
 torch
 torchvision
 numpy
+ultralytics
+netron
