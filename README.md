@@ -26,6 +26,8 @@ pip install -r requirements.txt
 
 ## Exporting Models (Pytorch)
 
+Classification
+
 - AlexNet
 - ConvNeXt_base
 - ConvNeXt_small
@@ -61,6 +63,14 @@ pip install -r requirements.txt
 - ResNet101
 - ResNet152
 - ShuffleNet
+
+
+
+Object Detection Models
+- FasterRCNN_V1 (fasterrcnn_resnet50_fpn)
+- FasterRCNN_V2 (fasterrcnn_resnet50_fpn_v2)
+- FasterRCNN_V3_L (fasterrcnn_mobilenet_v3_large_fpn)
+- FasterRCNN_V3_L_320 (fasterrcnn_mobilenet_v3_large_320_fpn)
 - YOLOV8n
 - YOLOV8s
 - YOLOV8m
