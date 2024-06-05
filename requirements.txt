@@ -1,5 +1,5 @@
 onnx
-onnxruntime
+onnxruntime-gpu
 torch
 torchvision
 numpy
