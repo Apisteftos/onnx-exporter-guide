@@ -77,6 +77,9 @@ Object Detection Models
 - YOLOV8l
 - YOLOV8x
 
+Image Segmentation Models
+- UNet 
+
 
 
 ## Examples
