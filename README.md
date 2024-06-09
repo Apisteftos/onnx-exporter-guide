@@ -80,6 +80,9 @@ Object Detection Models
 Image Segmentation Models
 - UNet 
 
+Natural Language Processing
+- BERT 
+
 
 
 ## Examples
